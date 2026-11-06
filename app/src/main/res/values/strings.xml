@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2 Broadcast</string>
+    <string name="send_broadcast">Отправить Broadcast → SMS</string>
+    <string name="phone_hint">Номер телефона</string>
+    <string name="sms_hint">Текст SMS</string>
+    <string name="default_phone">5556</string>
+    <string name="default_sms">SMS через BroadcastReceiver (вариант 2)</string>
+</resources>

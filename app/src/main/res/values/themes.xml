@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.Lab2Broadcast" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="Theme.Lab2Broadcast" parent="Base.Theme.Lab2Broadcast" />
+</resources>
